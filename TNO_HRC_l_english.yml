@@ -1,0 +1,31 @@
+﻿l_english:
+###DESC
+
+###人物名称
+# HRC_Wang_Hongwen:0王洪文
+# HRC_Wu_Zizhen:0 "吴子祯"
+
+###领袖技能
+  
+###决议
+
+###特质
+mao:mao
+
+
+####党和国家命名
+HRC_social_democrat_party:0 "中国国民党革命委员会"
+HRC_social_demorat_party_long:0 "中国国民党革命委员会"
+HRC_socialist_party:0 "中国共产党"
+HRC_socialist_party_long:0 "中国共产党"
+HRC_communist_party:0 "中国共产党"
+HRC_communist_party_long:0 "中国共产党"
+HRC:0 "上海自由贸易区"
+HRC_ADJ:0 "上海自由贸易区"
+HRC_DEF:0 "上海自由贸易区"
+HRC_socialist:0 "中华人民共和国"
+HRC_socialist_ADJ:0 "中华人民共和国"
+HRC_socialist_DEF:0 "中华人民共和国"
+HRC_communist:0 "人类联合革命委员会"
+HRC_communist_ADJ:0 "人类联合革命委员会"
+HRC_communist_DEF:0 "人类联合革命委员会"
